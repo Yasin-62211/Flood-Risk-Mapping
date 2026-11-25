@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./555.png" 
+       alt="Flood Risk Mapping System"
+       width="100%">
+</p>
+
 # 🌊 Flood Risk Mapping System
 
 ## 📌 Project Overview
